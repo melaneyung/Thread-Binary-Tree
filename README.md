@@ -42,3 +42,18 @@ This option is not available in CSS Linux lab under LLVM 3.8.1, but is needed on
 - cppcoreguidelines-special-member-functions: not defining move operator
 - hicpp-special-member-functions: not defining move operator
 - cppcoreguidelines-owning-memory: not using gsl
+
+
+### Work divided
+Shushmitha:
+- implementation 50%
+- design : 50%
+- testing 50%
+
+Melaney:
+- implementation  50%
+- design: 50%
+- testing: 50%
+
+
+
