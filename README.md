@@ -46,14 +46,14 @@ This option is not available in CSS Linux lab under LLVM 3.8.1, but is needed on
 
 ### Work divided
 Shushmitha:
-- implementation 50%
-- design : 50%
-- testing 50%
+- implementation 80%
+- design : 80%
+- testing 60%
 
 Melaney:
-- implementation  50%
-- design: 50%
-- testing: 50%
+- implementation  20%
+- design: 20%
+- testing: 40%
 
 
 
